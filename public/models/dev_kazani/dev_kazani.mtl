@@ -1,0 +1,79 @@
+newmtl Water blue matte_8f6e96c4-76e2-47bf-911e-d1fa95628963
+Kd 0.145 0.427 0.482
+d 1.000
+newmtl Green Carpet 1_847c85c6-c249-4ae2-bdb2-cf41c41f94d1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_2.jpg
+newmtl Green Carpet_c0b0a750-3d8f-4ebe-afd7-49d3f3997acc
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_2.jpg
+newmtl Pebble Beach 2_66d23bfb-7ed0-4a30-a63c-ccefdd521e9e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_4.jpg
+newmtl Pebble Beach_67e60c47-3e7f-4a95-b97d-91c41d69c914
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_4.jpg
+newmtl Water blue matte 1_8e2f636d-8688-4762-8331-9d580c8a8be1
+Kd 0.145 0.427 0.482
+d 1.000
+newmtl Water blue matte 2_735b0677-5246-49bb-81a9-429fc363e4f2
+Kd 0.145 0.427 0.482
+d 1.000
+newmtl Default material_c8bf259f-b618-40bf-91f0-1d2aeb9ad7b2
+Kd 0.369 0.271 0.827
+d 1.000
+newmtl Material 4_0c5fcaef-5703-4270-a43b-6588327bbfc5
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 2_64cfd864-a701-4fb5-bc14-7c61230c5ddd
+Kd 0.741 0.741 0.741
+d 1.000
+newmtl Material 3_e336fc2b-7c96-4b73-8504-48de4e211020
+Kd 0.741 0.741 0.741
+d 1.000
+newmtl Material 5_4cd123cf-8e03-4026-8c4b-4db9f2396786
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 6_792033ec-b03b-4f1c-bd26-373893363384
+Kd 0.741 0.741 0.741
+d 1.000
+newmtl Default material 1_23ce5c65-57b5-4742-ae0c-4b1bc6180328
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 7_c8baf165-de69-4f9b-ba99-58ba8424e68a
+Kd 0.741 0.741 0.741
+d 1.000
+newmtl Default material 2_8531f904-3666-41a5-a372-d298fe4e5804
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Default material 3_61f9413a-e543-46eb-833f-5fc819bf05f3
+Kd 1.000 0.796 0.247
+d 1.000
+newmtl Default material 4_e24bfbb7-cc7d-4908-95d0-27250177e9e2
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 8_b14cdbd3-e1f7-4617-bc31-d67fe31ce7b1
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Material 1_bed894fa-48b3-4c6d-a570-aefd7ed52ee2
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Default material 5_7f31e6de-1995-431f-a44c-a2b7db23f6c9
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Default material 6_8e1482bb-6976-417d-90df-a6ef24e81dce
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Default material 7_2361c222-b5ac-48fe-8be9-3ded1c86d0bf
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 9_e2144487-12e9-469f-b7ee-8a8b962e77d9
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 10_4797c099-32a1-4a11-ac0e-38b3656c1e38
+Kd 1.000 1.000 1.000
+d 1.000

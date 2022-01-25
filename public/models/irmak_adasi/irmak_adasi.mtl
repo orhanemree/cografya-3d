@@ -1,0 +1,84 @@
+newmtl Pebble Beach 1_9237945b-3164-4856-a5ed-7689c6716d3f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_2.jpg
+newmtl Sharp Shapes - Blue_dd590191-3160-45bd-9c31-ac539a2b0df6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl Green Carpet_22c3d91e-0a4c-4a9a-9563-7a5f637b9a38
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_5.jpg
+newmtl Pebble Beach_a67862b5-6ecf-4116-b9ba-81a529094573
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_2.jpg
+newmtl Zig Zag Shapes Green 5_1b04566d-fa17-4098-995a-9b03d5dd1c29
+Kd 0.416 0.561 0.424
+d 1.000
+newmtl Zig Zag Shapes Green 1_9af69bd5-c939-4bb1-8ab8-6158b1c99caf
+Kd 0.416 0.561 0.424
+d 1.000
+newmtl Zig Zag Shapes Green 3_f7ad6ebe-6bfb-4394-81c6-91f3920e939e
+Kd 0.416 0.561 0.424
+d 1.000
+newmtl Green Carpet 2_35752bd0-2e71-47d5-bab3-8a17d37fa6af
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_5.jpg
+newmtl Green Carpet 1_d7f11d26-66b7-4155-87a6-957fd2e4a718
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_5.jpg
+newmtl Zig Zag Shapes Green 2_678f497e-8080-46af-a91b-329374da755f
+Kd 0.416 0.561 0.424
+d 1.000
+newmtl Zig Zag Shapes Green_946a2123-1cf1-4f8d-8fcf-4d8f95960c9a
+Kd 0.416 0.561 0.424
+d 1.000
+newmtl Zig Zag Shapes Green 4_dfa98717-b75b-4594-abf8-a70f815b1fa8
+Kd 0.416 0.561 0.424
+d 1.000
+newmtl Default material_b7a91212-6153-49d0-9e01-88a8546a1159
+Kd 0.278 0.278 0.278
+d 1.000
+newmtl Default material 1_1b2da792-bdfa-4d38-85cf-afce8c59009b
+Kd 1.000 0.796 0.247
+d 1.000
+newmtl Default material 2_1bca00e4-fe1c-46cb-930d-54b1bced1c0f
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Default material 3_9691d1e4-1572-4dcc-a6d2-fc6b73dc7fa6
+Kd 0.369 0.271 0.827
+d 1.000
+newmtl Default material 4_bd00f8a0-3822-4bca-926c-14631b03aa6e
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Default material 5_5bbd24e5-7365-4676-90bd-6417ff99b055
+Kd 0.522 0.522 0.522
+d 1.000
+newmtl Default material 7_34fa0348-5150-4116-8901-b12a30316bf8
+Kd 0.831 0.192 0.192
+d 1.000
+newmtl Default material 6_859205f4-9925-405c-97cb-dbf39c2b1018
+Kd 0.831 0.192 0.192
+d 1.000
+newmtl Material 1_988e7b3d-c0dd-401b-8ea1-e12e5c7ad212
+Kd 0.839 0.839 0.839
+d 1.000
+newmtl Material 2_1d8ef9ea-73b9-42d3-a532-014f2e9ce82f
+Kd 0.420 0.420 0.420
+d 1.000
+newmtl Material 3_d763ecf7-f2bb-498f-8277-3c785dd7d7c6
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 7_88ec7406-1fdd-4b4e-a91b-f21d8326b6f9
+Kd 1.000 0.796 0.247
+d 1.000
+newmtl Material 8_cf9d7f37-e409-4145-867e-57f4b90e1fac
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Object material_7533b6fe-a271-4a48-846d-c83b31cefcec
+Kd 0.000 0.000 0.000
+d 1.000

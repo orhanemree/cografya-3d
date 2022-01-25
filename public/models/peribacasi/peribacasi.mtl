@@ -1,0 +1,64 @@
+newmtl Rock Surface 1_9be9d01c-fc3a-465f-a6cb-039c15c4fbfb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_3.jpg
+newmtl Rock Surface 3_49af9799-4dff-48fa-ae14-b4cd94b558a4
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_3.jpg
+newmtl Rock Surface 2_a086b2be-7363-437f-9f47-6b4709822d06
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_3.jpg
+newmtl Pebbly Ground_49fc58e2-8db5-405f-a63a-3de77147c8f9
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_5.jpg
+newmtl Pebble Beach 1_7083cb6b-1b86-4763-a50e-77ccaa8f90ff
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_8.jpg
+newmtl Pebbly Ground 1_9e2f3056-3e29-4e19-ac56-570127f5bf90
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_5.jpg
+newmtl Pebble Beach 2_12258849-6ea7-4c50-bdd8-86e4b16f18a1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_8.jpg
+newmtl Pebbly Ground 4_8ed98a57-1385-47f2-b0ef-50b89fb46008
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_5.jpg
+newmtl Pebble Beach 5_9e17f286-b4c6-48c6-92b2-bf446a9399eb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_8.jpg
+newmtl Pebbly Ground 3_5fd45fc0-3300-482b-a105-eec51a7aedbf
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_5.jpg
+newmtl Pebble Beach 3_11aa8afe-ab4f-4f98-a391-c2130277d44b
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_8.jpg
+newmtl Pebbly Ground 2_58155b54-60d3-4951-a935-731cd7471725
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_5.jpg
+newmtl Pebble Beach_81398eb9-3fba-46cc-a66f-24a20da10a7e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_8.jpg
+newmtl Pebbly Ground 5_eab2f7bf-24e1-40ae-bdf4-ea8f81aea58a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_5.jpg
+newmtl Pebble Beach 4_8243ded5-a393-44aa-a862-f3b0d2c5b123
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_8.jpg
+newmtl Pebble Beach 6_801e5db6-73b3-401f-8402-fe334b12cb57
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_8.jpg

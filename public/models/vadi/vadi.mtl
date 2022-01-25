@@ -1,0 +1,44 @@
+newmtl Water blue matte 1_540ee5a8-585b-44c6-958e-6a98ef6a0b50
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl Forest Soil 2_7879127c-4bb3-4510-9174-aa57534f9947
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_2.jpg
+newmtl Forest Soil 1_08eb554a-e106-4ceb-be06-dce8ced88436
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_2.jpg
+newmtl Forest Soil_7b01485d-5810-4348-8d6c-8b3b4cc36890
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_2.jpg
+newmtl Default material_43414a56-7915-444d-bae9-c277742bdbb7
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 1_89ade605-44a2-4ad5-ad41-8dc27e221686
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 3_353aae13-e325-4f4d-b319-5d2d6f1b54e6
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 2_69784bba-02d3-4e24-b3c7-303b3743283b
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Woven Fabric_74d2aca2-840c-4274-ac49-a9746abf6d74
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_4.jpg
+newmtl Material 7_95c3cc6f-b1cd-4fdf-8f99-e3efc1838e0f
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 5_0b107148-885b-48bf-b861-df67af52212a
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 8_bd7d2377-a2d1-4518-9a70-ba9f69981510
+Kd 1.000 0.796 0.247
+d 1.000
+newmtl Material 10_0835093c-d82e-40a8-82c5-9a72efbfd985
+Kd 0.243 0.247 0.318
+d 1.000

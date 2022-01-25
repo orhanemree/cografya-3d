@@ -1,0 +1,67 @@
+newmtl Green Carpet 1_61d4b834-cfaf-44b4-bede-1d3bf5540d0d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_2.jpg
+newmtl Green Carpet_6aa83f9d-f4aa-4dae-a1a7-bdbfd11ede2b
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_2.jpg
+newmtl Pebble Beach 1_6b1fc8dd-81e1-4098-89f0-2c8790f71aef
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_4.jpg
+newmtl Pebble Beach_81820f0f-51c6-4b77-8f6d-bcb47918bab8
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Texture_4.jpg
+newmtl Default material_0a365a2f-75df-4de6-ba8f-bb243f613792
+Kd 0.278 0.278 0.278
+d 1.000
+newmtl Default material 1_0cfec166-cb9b-4185-8613-4d9f2a32072d
+Kd 1.000 0.796 0.247
+d 1.000
+newmtl Default material 2_54cfaac6-890e-4efe-879d-9aa404333ebb
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Default material 3_9eef284c-2a27-44ee-a7f5-3c0c8ca54ef0
+Kd 0.369 0.271 0.827
+d 1.000
+newmtl Default material 4_bbcfbd41-0c6e-43cd-bcce-361c67a15383
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Default material 5_64b6f793-c370-4b1b-ad63-9384f29acadf
+Kd 0.522 0.522 0.522
+d 1.000
+newmtl Material 1_dd3e0e4e-9b0c-4715-8812-bba054a0df0c
+Kd 0.839 0.839 0.839
+d 1.000
+newmtl Material 2_84299247-76e4-448a-a7d6-5cab53e69f12
+Kd 0.420 0.420 0.420
+d 1.000
+newmtl Material 3_6353430c-dd58-4f60-b09b-0199caddb0bf
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Material 7_877b3ba5-2d8a-4c66-8d87-4767398f6102
+Kd 1.000 0.796 0.247
+d 1.000
+newmtl Material 8_e2a2df3f-a770-478c-8442-ea25e073df13
+Kd 0.976 0.329 0.439
+d 1.000
+newmtl Object material_c431a5ac-69a5-44ed-89a6-340892a733bf
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Zig Zag Shapes Green 1_15c4c6d0-30e0-4ea5-9075-3c3b524131d4
+Kd 0.416 0.561 0.424
+d 1.000
+newmtl Default material 7_76da0596-6727-4007-b809-783ba1915da5
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Default material 9_6f71a9b5-fd0b-427e-bba9-15d28ed57bde
+Kd 0.243 0.247 0.318
+d 1.000
+newmtl Default material 11_d4d5a62e-c671-4123-ab91-07ea183f76f7
+Kd 1.000 0.796 0.247
+d 1.000
+newmtl Default material 10_7a2e4a63-780b-4cad-8b5f-545430dddfa2
+Kd 1.000 0.796 0.247
+d 1.000
