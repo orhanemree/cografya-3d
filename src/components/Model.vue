@@ -56,7 +56,7 @@ export default {
                     object.children.forEach(element => {
                         if (element.name === "water") {
                             element.material.transparent = true;
-                            element.material.opacity = 0.7;
+                            element.material.opacity = 0.9;
                         }
                     });
                 });
