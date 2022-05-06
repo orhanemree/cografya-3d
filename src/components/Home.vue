@@ -16,21 +16,11 @@
 import Footer from "./Footer.vue"
 export default {
     name: "Home",
-    components: {
-        Footer,
-    },
     data(){
         return{
             models: ["dev_kazani", "irmak_adasi", "menderes", "peribacasi", "plato", "vadi"]
         }
     },
-    methods: {
-        createLinks(){
-            console.log(this.models[1]);
-        }
-    },
-    mounted(){
-        this.createLinks();
-    }
+    components: { Footer },
 }
 </script>
